@@ -1,0 +1,18 @@
+# 临时文件 / 缓存 / 隐私
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+# 凭证与状态（严禁上传）
+storage_state.json
+.cookies
+*.token
+.env
+notebooklm-profiles/
+
+# 测试产物
+test_*.txt
+*.wav
+*.mp4
